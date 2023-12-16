@@ -5,7 +5,7 @@
 - 🌎 Currently residing in Fortaleza, CE.
 
 ### Skills
-- 💻 Proficient in [JavaScript,Java,HTML & CSS].
+- 💻 Proficient in [ JavaScript,Java,HTML & CSS ].
 - 📚 Currently pursuing a degree in Computer Science, always eager to learn and explore new technologies.
   
 
